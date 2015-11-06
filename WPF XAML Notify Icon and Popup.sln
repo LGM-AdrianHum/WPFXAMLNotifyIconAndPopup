@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfXamlPopup", "WpfXamlPopup\WpfXamlPopup.csproj", "{9CD11B90-9CBA-4435-B51C-BAEAE1E7FAD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedWindowsControls", "ExtendedWindowsControls\ExtendedWindowsControls.csproj", "{EF9D9A9B-C739-4606-B1EF-4F662DCF5EF9}"
